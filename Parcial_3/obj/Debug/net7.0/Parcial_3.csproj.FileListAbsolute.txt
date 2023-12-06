@@ -1,0 +1,6 @@
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.csproj.AssemblyReference.cache
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.AssemblyInfoInputs.cache
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.AssemblyInfo.cs
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.csproj.CoreCompileInputs.cache
+D:\00\2\Parcial_3\obj\Debug\net7.0\Parcial_3.MvcApplicationPartsAssemblyInfo.cache
